@@ -1,3 +1,4 @@
+#!/bin/bash
 # todo.sh - To-Do List Manager 메인 프로그램
 # 모든 기능을 통합하여 실행
 
@@ -69,3 +70,6 @@ main() {
         echo ""
     done
 }
+
+# 프로그램 시작
+main
